@@ -1,1 +1,43 @@
-Hello :)
+UNITATS DE MESURA
+
+0) Des de quin any existeixen "nous prefixes informàtics" https://es.wikipedia.org/wiki/Terabyte
+· Els nous prefixes informàtics existeixen des de 1960.
+
+1) Ordenar per tamany els següents arxius:  4000 KB, 0.3GB , 5MB, 0.02 GB , 400 KB, 0.5MB
+· 0.3GB - 0.02GB - 5MB - 4000KB - 0.5MB - 400KB
+
+2) A un USB de 16GB quants arxius de video de 500MB hi caben? Primer: Tot en les mateixes unitats
+Segon: Factor conversió:  16GB  x  1 arxiu / 0.5GB
+· 32 arxius de video.
+
+3) Quantes fotos de 325KB caben a un CD (700MB)
+· 2.153 fotos.
+
+5) Quantes fotos de 2 Megapixels = 2.000.000 bits caben a un CD (700 MB)
+· 2.800 fotos.
+
+6) Un sistema informàtic de 80GB de disc dur, esta ocupat en un 20%. 
+Quants CDs necessitaré per fer una copia de seguretat?. Quants DVDs necessitaria?
+· 114 CDs. 17 DVDs.
+
+7) Un arxiu DIV-X ocupa 5,6GB. Quants CD necessito per guardar-lo? Quants Blu-ray?
+· 8 CDs. 1 Blu-Ray.
+
+8) Sabiendo que un DVD de simple capa tiene una capacidad de 4,7 GB, que la capacidad de un CD
+es de 700 MB calcula a cuántos CDs equivale dicho DVD.
+· 6 CDs.
+
+9) Suponiendo que 2 horas de cine en calidad Divx ocupan 700 MB, calcula cuántas películas
+podemos almacenar en un disco duro de 1,5 TB
+· 2.142 películas.
+
+10) Suponiendo que una canción en formato mp3 ocupa 5 MB, calcula cuántas canciones podemos almacenar
+en un reproductor de mp3 con una memoria de 4 GB.
+· 800 canciones.
+
+11)  Se dispone de un e-book reader con capacidad para almacenar hasta 2GB.
+ Se desea cargar en el mismo los apuntes de las 3 materias del primer cuatrimestre: 
+los de Matemáticas pesan 260MB, los de Introducción a la Informática 80.363 KB y los de
+Sociología de las Organizaciones 380.638.336 bytes. ¿Es posible? Si es así, ¿cuántos MB
+libres quedarán?
+· 1279MB.
