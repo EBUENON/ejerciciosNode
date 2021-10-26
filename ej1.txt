@@ -41,3 +41,8 @@ los de Matemáticas pesan 260MB, los de Introducción a la Informática 80.363 K
 Sociología de las Organizaciones 380.638.336 bytes. ¿Es posible? Si es así, ¿cuántos MB
 libres quedarán?
 · 1279MB.
+
+12)  Un proveedor de Internet brinda un espacio web de 25 MB. Se elaboró un sitio web que
+incluye 8 páginas HTML que suman 960.201 bytes en total, 5000 KB de imágenes y algunas
+fotos que ocupan 10,4 MB. ¿Cuánto espacio quedará disponible luego de subir el sitio?
+· 8,64MB.
