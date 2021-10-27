@@ -46,3 +46,6 @@ libres quedarán?
 incluye 8 páginas HTML que suman 960.201 bytes en total, 5000 KB de imágenes y algunas
 fotos que ocupan 10,4 MB. ¿Cuánto espacio quedará disponible luego de subir el sitio?
 · 8,64MB.
+
+
+(Cambio para hacer commit)
