@@ -18,9 +18,8 @@ app.get('/convierte/', (req, res) => {
     const euros = Number(req.query.euros)
     const resultado = euros * 0,000024
     const cadena = `<h2> Resultado de la conversión </h2>
-                    <p> La cantidad de ${euros}
-                    convertida a bitcoins son: </p>
-                    <h3> ${resultado} </h3>
+                    <p> La cantidad de ${euros} convertida a bitcoins son: </p>
+                    <h3> ${resultado} </h3> <br>
                     <p> Gracias por utilizar este conversor. </p>
 
     res.send(cadena)
