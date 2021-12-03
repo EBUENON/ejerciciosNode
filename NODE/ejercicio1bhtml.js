@@ -9,3 +9,5 @@ app.get(`/vernota/`, (req, res) => {
 
     res.send(resultado)
 })
+
+app.listen(5000, () => console.log('Server ready on localhost:5000'))
