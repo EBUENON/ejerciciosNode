@@ -1,0 +1,2 @@
+1.- El siguiente programa sirve para encender diferentes LEDs dependiendo del valor matemático que aparezca.
+    Si el valor es 3, las luces se encenderán o apagarán, de forma que se formará la figura del número 2.
