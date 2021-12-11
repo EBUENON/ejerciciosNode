@@ -1,0 +1,3 @@
+6.- Realiza un código en Javascript que saque 10 números aleatorios. Si el número que sale es el 1, tiene
+    que dibujar en LEDs un cuadrado. Si el número que sale está entre el 2 y el 7, tiene que dibujar un
+    círculo. Y por último, si el número que sale está entre el 8 y el 10, tiene que dibujar un corazón.
