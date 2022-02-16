@@ -1,0 +1,40 @@
+1.- a) Placas base, conectores mecánicos, chipset, placas ATX y disipador.
+1.- b) Placas base (columna vertebral del ordenador, esa en la que están algunos de
+los componentes o partes más importantes de tu equipo), conectores mecánicos (dispositivos utilizados
+para sustituir en elementos de concreto reforzado), chipset (conjunto de componentes electrónicos que
+están integrados en el procesador de un dispositivo electrónico), placas ATX (placas base producidas
+por Intel a mediados de los 90 como una mejora) y disipador (transfiere la energía del calor de un aparato
+a otro entorno más frio).
+
+2.- B550.
+
+3.- Kaby Lake (procesadores Intel Core de séptima generación, chips optimizados de sexta generación,
+zócalo LGA 1151, chips de la serie 100, vídeo 4K, velocidades de reloj base son más altas en comparación
+con el procesador Skylake, lo mismo para las frecuencias Turbo Boost, 24 carriles de comunicación con PCH, 
+velocidades de hasta 10 Gb/s), Skylake (procesador de sexta generación, mismo enfriador de CPU que Kaby Lake, 
+20 carriles de comunicación con PCH, 5 Gb/s).
+
+4.- In the past, the CPU controlled the data transfer between the hard disk drive and the RAM memory.
+Since the hard disk drive is slower than the RAM memory, this slowed down the system, since the CPU
+would be busy until all the data was transferred from the hard disk drive to the RAM memory. This method
+is called PIO, Processor I/O (or Programmed I/O). Nowadays data transfer between the hard disk drive and
+the RAM memory in made without using the CPU, thus making the system faster. This method is called bus
+mastering or DMA. In order to simplify our drawing we didn’t put the north bridge
+chip between the hard disk drive and the RAM memory in Figure 1, but it is there. If you’d like to learn
+more about this subject, we’ve already written a tutorial on that. / En el pasado, la CPU controlaba la
+transferencia de datos entre el disco duro y la memoria RAM. Dado que la unidad de disco duro es más lenta
+que la memoria RAM, esto ralentizaba el sistema, ya que la CPU estaría ocupado hasta que todos los datos
+fueran transferidos desde el disco duro a la memoria RAM. Este método se llama PIO, E/S del procesador
+(o E/S programada). Hoy en día la transferencia de datos entre la unidad de disco duro y la memoria RAM se
+hace sin usar la CPU, lo que hace que el sistema sea más rápido. Este método se llama bus masterización o
+DMA (Acceso directo a la memoria). Para simplificar nuestro dibujo no pusimos el puente norte chip entre la
+unidad de disco duro y la memoria RAM en la Figura 1, pero está ahí. Si quieres aprender más sobre este tema,
+ya hemos escrito un tutorial sobre eso.
+
+5.- El conjunto de chips ULi M1697 puede admitir Socket 754, 939 o 940. 1000 HT (5X) es totalmente compatible.
+El M1695 de dos chips ULi, el M1697 es totalmente compatible con vídeo PCI Express x16, que también se puede
+configurar como dos ranuras PCIe x8. NVIDIA ha tardado en admitir cualquier otro conjunto de chips con su
+solución SLI, pero ATI ha mostrado cierta disposición a abrir el estándar Crossfire con su reciente concesión
+de licencias del conjunto de chips Intel 975x para Crossfire.
+
+6.- No.
